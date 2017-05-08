@@ -1,7 +1,7 @@
 @echo off
 
 ::
-:: modorganizer_installer.bat: A very simple batch script to create new instances of Mod Organizer with symlinks
+:: modorganizer_installer.bat: A very simple batch script to create new instances of Mod Organizer with symlinks.
 
 :: Copyright (C) 2017  Lucas Cota (BrasileiroGamer)
 :: lucasbrunocota@live.com
